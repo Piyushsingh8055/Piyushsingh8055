@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar Singh</h1>
-<img align='right' src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966' width=250 height=180>
+<img align='right' src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966' width=250 height=150>
 <h3 align="center">I am from Varanasi, India and <br>I did my post graduation (MCA) from PESU.<br> Mainly self-taught programmer with a <br> huge passion for programming.<br> 📚 MCA from ( from PES University Bangalore)<br> A passionate frontend developer from India.</h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushsingh8055" alt="piyushsingh8055" /></a> </p>
