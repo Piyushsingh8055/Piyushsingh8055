@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar Singh</h1>
-<img align='right' src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966' width=200 height=150>
+<img align='right' src='https://institute.careerguide.com/wp-content/uploads/2020/09/b36bb8738790f49a03e6ece2b7276f92.gif' width=200 height=250>
 <h3 align="center">I am from Varanasi, India and <br>I did my Post Graduation (MCA) from PESU.<br> Mainly self-taught programmer with a huge passion for programming.<br> 📚 MCA from ( from PES University Bangalore)<br> A passionate frontend developer from India.</h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushsingh8055" alt="piyushsingh8055" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/piyush_singh98" target="blank"><img src="https://img.shields.io/twitter/follow/piyush_singh98?logo=twitter&style=for-the-badge" alt="piyush_singh98" /></a> </p>
+
+<img align='right' src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966' width=250 height=200>
 
 - 🔭 I’m currently working on [E Commerce Website](https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-)
 
