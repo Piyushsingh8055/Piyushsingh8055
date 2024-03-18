@@ -11,9 +11,9 @@
 - 🔭  I’m currently working with [MyMaster11](https://mymaster11.com/) as Software Developer.
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Piyushsingh8055?tab=repositories](https://github.com/Piyushsingh8055?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Git](https://github.com/Piyushsingh8055?tab=repositories)
 
-- 💬 Ask me about **JavaScript Reactjs C Java**
+- 💬 Ask me about **JavaScript Reactjs AngularJs Next Js C**
 
 - 📫 How to reach me **piyushkrsingh2108@gmail.com**
 
