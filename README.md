@@ -8,9 +8,8 @@
 
 <img align='right' src='https://github.com/amarupd/textutils/blob/master/src/devops2.gif' width=250 height=200>
 
-- 🔭 I’m currently working on [E Commerce Website](https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-)
-
-- 🌱 I’m currently learning **Flutter**
+- 🔭  I’m currently working with [MyMaster11](https://mymaster11.com/) as Software Developer.
+- 🌱 I’m currently learning **Node Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Piyushsingh8055?tab=repositories](https://github.com/Piyushsingh8055?tab=repositories)
 
