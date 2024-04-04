@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar Singh</h1>
 <img align='right' src='https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png' >
 <img align='right' src='https://institute.careerguide.com/wp-content/uploads/2020/09/b36bb8738790f49a03e6ece2b7276f92.gif' width=200 height=250>
-<br>
 <h3 align="center">I am from Varanasi, India and <br>I did my Post Graduation (MCA) from PESU.<br> Mainly self-taught programmer with a huge passion for programming.<br> 📚 MCA from ( from PES University Bangalore)<br> A passionate frontend developer from India.</h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushsingh8055" alt="piyushsingh8055" /></a> </p>
