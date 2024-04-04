@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/piyush_singh98" target="blank"><img src="https://img.shields.io/twitter/follow/piyush_singh98?logo=twitter&style=for-the-badge" alt="piyush_singh98" /></a> </p>
 
-<img align='right' src='https://github.com/amarupd/textutils/blob/master/src/devops2.gif' width=250 height=200>
+<img align='right' src='https://github.com/amarupd/textutils/blob/master/src/devops2.gif' width=350 height=300>
 
 - 🔭  I’m currently working with [MyMaster11](https://mymaster11.com/) as Software Developer.
 - 🌱 I’m currently learning **Node Js**
