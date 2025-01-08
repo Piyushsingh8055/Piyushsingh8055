@@ -3,7 +3,6 @@
 <img align='right' src='https://institute.careerguide.com/wp-content/uploads/2020/09/b36bb8738790f49a03e6ece2b7276f92.gif' width=120 height=150>
 <h3 align="center">I am from Varanasi, India and <br>I did my Post Graduation (MCA) from PESU.<br> Mainly self-taught programmer with a huge passion for programming.<br> 📚 MCA from ( from PES University Bangalore)<br> A passionate frontend developer from India.</h3> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushsingh8055" alt="piyushsingh8055" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/piyush_singh98" target="blank"><img src="https://img.shields.io/twitter/follow/piyush_singh98?logo=twitter&style=for-the-badge" alt="piyush_singh98" /></a> </p>
 
