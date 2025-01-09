@@ -3,14 +3,14 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image">
 </p>
 
-<h3 align="center">I am a passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 <p align="center">
   <img src="https://institute.careerguide.com/wp-content/uploads/2020/09/b36bb8738790f49a03e6ece2b7276f92.gif" width="120" height="150">
 </p>
 
 <h3 align="center">
   I hail from Varanasi and completed my Post Graduation (MCA) from PES University, Bangalore. <br>
-  Self-taught programmer with a deep passion for coding and development. 🚀
+  A self-taught programmer with a deep passion for coding and development. 🚀
 </h3>
 
 <p align="center">
@@ -25,12 +25,11 @@
 
 ---
 
-- 🔭 I’m currently working with **[MyMaster11](https://mymaster11.com/)** as a **Software Developer**.
-- 🌱 I’m currently learning **Node.js**.
-- 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/Piyushsingh8055?tab=repositories)**.
-- 💬 Ask me about **JavaScript, React.js, Angular, Next.js, and C**.
-- 📫 How to reach me: **piyushkrsingh2108@gmail.com**.
-- ⚡ Fun fact: **The stickers below are coded with GitHub.**
+### 🔭 **Current Endeavors**
+- 🚀 Working with **[MyMaster11](https://mymaster11.com/)** as a **Software Developer**.
+- 🌱 Exploring **Node.js** for backend development.
+- 💬 Open to discussions about **JavaScript, React.js, Angular, Next.js, and C**.
+- 📫 Reach me at: **piyushkrsingh2108@gmail.com**.
 
 ---
 
@@ -101,12 +100,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushsingh8055&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img 
     src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" 
     alt="Programming Animation" 
-    width="400" 
-    height="400"/>
+    width="250" 
+    height="250" />
 </p>
 
 <p align="center">
