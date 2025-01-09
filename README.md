@@ -34,8 +34,8 @@
     src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" 
     alt="Image Description"
     align="right"
-    width="350" 
-    height="300"
+    width="250" 
+    height="250"
 />
 </p>
 
