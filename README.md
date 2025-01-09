@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushsingh8055&show_icons=true&locale=en&layout=compact" alt="piyushsingh8055" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushsingh8055&" alt="piyushsingh8055" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=piyushsingh8055&](https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif)" alt="piyushsingh8055" /></p>
