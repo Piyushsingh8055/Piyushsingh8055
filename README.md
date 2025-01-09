@@ -31,7 +31,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushsingh8055&show_icons=true&locale=en&layout=compact" alt="piyushsingh8055" /></p>
 
-<p>
-  <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" alt="Image Description" />
+<p style="text-align: center;">
+  <img 
+    src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" 
+    alt="Image Description" 
+    width="600" 
+    height="400"
+/>
 </p>
+
 
